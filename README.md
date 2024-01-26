@@ -25,8 +25,10 @@ Run the streamlit app
 
 ``` streamlit run main.py ```
 
+## Sample video
+
+https://github.com/fatemaker254/Music_Recommender_Chatbot/assets/81921058/fd07b52d-43db-49cf-8f6b-8f3820d877c1
 
 
-## After Adding the Cart Feature
 
 
