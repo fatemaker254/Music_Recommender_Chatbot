@@ -30,5 +30,5 @@ Run the streamlit app
 https://github.com/fatemaker254/Music_Recommender_Chatbot/assets/81921058/fd07b52d-43db-49cf-8f6b-8f3820d877c1
 
 
-
-
+## Documentation
+[Music Track Similarity Model.docx](https://github.com/fatemaker254/Music_Recommender_Chatbot/files/14075436/Music.Track.Similarity.Model.docx)
