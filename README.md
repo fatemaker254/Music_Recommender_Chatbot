@@ -32,3 +32,4 @@ https://github.com/fatemaker254/Music_Recommender_Chatbot/assets/81921058/fd07b5
 
 ## Documentation
 [Music Track Similarity Model.docx](https://github.com/fatemaker254/Music_Recommender_Chatbot/files/14075436/Music.Track.Similarity.Model.docx)
+![image](https://github.com/fatemaker254/Music_Recommender_Chatbot/assets/81921058/418b90ac-bc1e-449c-bf0e-8c5462c6df43)
